@@ -1,0 +1,4 @@
+iso_code,continent,location,date,total_cases,total_deaths,total_vaccinations,people_vaccinated,people_fully_vaccinated,total_cases_per_million,total_deaths_per_million
+IND,Asia,India,2020-12-31,10266674,5598,148738,1380004385,0,0.0,0.0
+IND,Asia,India,2021-06-30,30458251,400312,323000000,220000000,103000000,22071.19,290.08
+IND,Asia,India,2022-12-31,44683643,530699,2200000000,1020000000,950000000,32379.2,384.56
